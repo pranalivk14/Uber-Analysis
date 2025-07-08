@@ -2,8 +2,8 @@
 Supply and Demand insights for Uber 2-week data
 
 About Dataset
-Insights from City Supply and Demand Data
-This data project has been used as a take-home assignment in the recruitment process for the data science positions at Uber.
+Supply and Demand insights for Uber 2-week data
+
 
 Assignment
 Using the provided dataset, answer the following questions:
